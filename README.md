@@ -1,2 +1,2 @@
 # HELLO!
-that is first project! im currently learning how to work w/ git and github!
+this is my first project! im currently learning how to work w/ git and github!
